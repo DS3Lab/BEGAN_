@@ -40,9 +40,16 @@ The server will save the generated image 'generated_file_name' in the current di
 
 ### Datasets
 
-/mnt/ds3lab/litian/face.txt   image_path_and_name \t 1(young)/-1(old)
+```
+/mnt/ds3lab/litian/face.txt   
+```
+image_path_and_name \t 1(young)/-1(old)
 
-/mnt/ds3lab/litian/galaxy.txt   image_path_and_name \t SSFR_value
+```
+/mnt/ds3lab/litian/galaxy.txt   
+```
+
+image_path_and_name \t SSFR_value
 
 
 
