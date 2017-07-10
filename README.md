@@ -41,4 +41,5 @@ The server will save the generated image 'generated_file_name' in the current di
 
 ## References
 [1] https://github.com/carpedm20/BEGAN-tensorflow
+
 [2] BEGAN: Boundary Equilibrium Generative Adversarial Networks.
