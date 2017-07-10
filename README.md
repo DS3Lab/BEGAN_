@@ -30,7 +30,7 @@ To encode (now in the config, the file size is 64 * 64):
 ```
 CUDA_VISIBLE_DEVICES=X python client_encode.py file_path/file_name
 ```
-The server will print the z-vector as save it as z.json at the same time.
+The server will print the z-vector and save it as z.json at the same time.
 
 To decode:
 ```
